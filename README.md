@@ -1,5 +1,5 @@
 # Well hello, I'm Claire! 👋
-I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey has been fueled by curiosity, creativity, and my love of problem solving. I love to build and create things, whether it be with code or with words. 
+I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey has been fueled by curiosity, creativity, and my love of problem solving. I'm always building and creating things, whether it be with code or with words. 
 
 ## A little about me
 🔎 Find me on [LinkedIn](www.linkedin.com/in/claire-carter-e).
