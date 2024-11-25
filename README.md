@@ -9,7 +9,9 @@ I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey ha
 🌱 Right now, I'm learning more about front end optimization.
 
 ## Beyond code
-I'm a mom of two darling kids and two adorable cats. I'm jumping back into the world of more traditional work after being a full stack caregiver. You know, responsible for both the front end and the back end 👶. I love adventures and travel, and my next trip is going to be to Japan for the second time. More things I like:
+I'm a mom of two darling kids and two adorable cats. I'm jumping back into the world of more traditional work after being a full stack caregiver. You know, responsible for both the front end and the back end 👶. Some things I like other than coding:
+
+✈️ Adventures and travel, and my next trip is going to be to Japan for the second time.
 
 🍄 Long nature walks, especially during mushroom season to see what's growing. I haven't been bold enough to sample any yet, but I am confident in my chanterelle ID skills, should I stumble upon one.
 
