@@ -1,5 +1,5 @@
 # Well hello, I'm Claire! 👋
-I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey has been fueled by curiosity, creativity, and my love of problem solving. I'm always building and creating things, whether it be with code or with words. 
+I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey has been fueled by curiosity, creativity, and my love of problem solving. I'm always building and creating things, whether it be with code or with words. I recently finished my full stack development bootcamp at Codeop, where I added to my SQL knowledge and learned Javascript, React, CSS, Node.js, and Vue, along with other tools. I'm excited to continue building my own projects and collaborating with others to make full stack apps.
 
 ## A little about me
 🔎 Find me on [LinkedIn](www.linkedin.com/in/claire-carter-e).
@@ -16,8 +16,6 @@ I'm a mom of two darling kids and two adorable cats. I'm jumping back into the w
 🍄 Long nature walks, especially during mushroom season to see what's growing. I haven't been bold enough to sample any yet, but I am confident in my chanterelle ID skills, should I stumble upon one.
 
 🧶 Knitting sweaters and socks and the occasional crocheting of a blanket or stuffie.
-
-🪡 Sewing and designing sensory-friendly clothes for kids. My oldest is reallllly bothered by seams but loves a girlie princess dress. Challenge accepted!
 
 📖 Reading anything really, but I'm always looking for my next historical fiction read.
 
