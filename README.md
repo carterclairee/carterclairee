@@ -4,7 +4,7 @@ I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey ha
 ## A little about me
 🔎 Find me on [LinkedIn](www.linkedin.com/in/claire-carter-e).
 
-🔧 I'm currently working on adding some new features to my full stack fiber arts app, [Use Your Stash](https://github.com/carterclairee/use-your-stash).
+🔧 I'm currently working on adding some new features to my full stack fiber arts app, [Use Your Stash](https://github.com/carterclairee/use-your-stash). It's an app for knitters and crocheters to keep track of their yarn and matches yarn to patterns to help reduce waste and save money.
 
 🌱 Right now, I'm learning more about front end optimization.
 
@@ -21,4 +21,4 @@ I'm a mom of two darling kids and two adorable cats. I'm jumping back into the w
 
 📖 Reading anything really, but I'm always looking for my next historical fiction read.
 
-🍽️ Cooking and meal planning dishes that are mostly healthy, kid- and grown-up-approved, and budget-friendly. It's an art! And maybe also a science. It was the inspiration for my project [Fridge to Fork](https://github.com/Ingersdotter/Fridge-to-Fork).
+🍽️ Cooking and meal planning dishes that are mostly healthy, kid- and grown-up-approved, and budget-friendly. It's an art! And maybe also a science. It was the inspiration for my project [Fridge to Fork](https://github.com/Ingersdotter/Fridge-to-Fork), a full stack app for making the most out of what's in your fridge and pantry by matching ingredients to recipes based on your diet.
