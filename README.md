@@ -1,12 +1,14 @@
 # Well hello, I'm Claire! 👋
-I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey has been fueled by curiosity, creativity, and my love of problem solving. I'm always building and creating things, whether it be with code or with words. I recently finished my full stack development bootcamp at Codeop, where I added to my SQL knowledge and learned Javascript, React, CSS, Node.js, and Vue, along with other tools. I like to build my own projects that solve real problems for me, so you'll see plenty of knitting, cooking, and hiking apps! I'm also so excited to contribute to collaborative projects and work with other coders and designers. Projects that particularly catch my interest are those that help users make sustainable choices, save money, and pursue their interests in new and fun ways.
+I'm a teacher-turned-technical-writer-turned-full-stack-developer. My journey has been fueled by curiosity, creativity, and my love of problem solving. I'm always building and creating things, whether it be with code or with words. I recently finished my full stack development bootcamp at Codeop, where I added to my SQL knowledge and learned Javascript, React, CSS, Node.js, and Vue, along with other tools. I like to build my own projects that solve real problems for me, so you'll see plenty of knitting, cooking, and hiking apps! I'm also so excited to contribute to collaborative projects and work with other coders and designers. Projects that particularly catch my interest are those that help users make sustainable choices that help the environment, save money, and pursue their interests in new and fun ways.
 
 ## A little about me
 🔎 Find me on [LinkedIn](www.linkedin.com/in/claire-carter-e).
 
-🔧 I'm currently working on adding some new features to my full stack fiber arts app, [Use Your Stash](https://github.com/carterclairee/use-your-stash). It's an app for knitters and crocheters to keep track of their yarn and matches yarn to patterns to help reduce waste and save money.
+🔧 I'm working on an internship with the UN's Food and Agriculture Organization European Commission for the Control of Foot-and-Mouth Disease. I'm helping build a dashboard to view progress on the EuFMD's objectives. 
 
-🌱 Right now, I'm learning more about front end optimization.
+🔧 For my personal projects, I'm currently working on adding some new features to my full stack fiber arts app, [Use Your Stash](https://github.com/carterclairee/use-your-stash). It's an app for knitters and crocheters to keep track of their yarn and matches yarn to patterns to help reduce waste and save money.
+
+🌱 Right now, I'm learning more Tailwind and Typescript.
 
 ## Beyond code
 I'm a mom of two darling kids and two adorable cats. I'm jumping back into the world of more traditional work after being a full stack caregiver. You know, responsible for both the front end and the back end 👶. Some things I like other than coding:
